@@ -1,0 +1,14 @@
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\bin\Debug\netcoreapp3.1\FiledTest.Repositories.deps.json
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\bin\Debug\netcoreapp3.1\FiledTest.Repositories.dll
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\obj\Debug\netcoreapp3.1\FiledTest.Repositories.csprojAssemblyReference.cache
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\obj\Debug\netcoreapp3.1\FiledTest.Repositories.AssemblyInfoInputs.cache
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\obj\Debug\netcoreapp3.1\FiledTest.Repositories.AssemblyInfo.cs
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\bin\Debug\netcoreapp3.1\FiledTest.Repositories.pdb
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\bin\Debug\netcoreapp3.1\FiledTest.Data.dll
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\bin\Debug\netcoreapp3.1\FiledTest.Models.dll
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\bin\Debug\netcoreapp3.1\FiledTest.Data.pdb
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\bin\Debug\netcoreapp3.1\FiledTest.Models.pdb
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\obj\Debug\netcoreapp3.1\FiledTest.Repositories.csproj.CoreCompileInputs.cache
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\obj\Debug\netcoreapp3.1\FiledTest.Repositories.csproj.CopyComplete
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\obj\Debug\netcoreapp3.1\FiledTest.Repositories.dll
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Repositories\obj\Debug\netcoreapp3.1\FiledTest.Repositories.pdb

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "N43KpJKV6PTrFiowBuL1m1378/egam3wSrFbHyTgeMa6QbwcVuwXhSI423jpT7YFeTt5Gdyw1bfg2WsPyqVmfA==",
+  "dgSpecHash": "5AuReugcmb8U8U0ngQK4vcSf6OfGbavfj33wdBwrGY1+WtnaQKxbBZ6aeJPpATfdCEf4U6Mc0MDDBV8cWpu07Q==",
   "success": true,
   "projectFilePath": "D:\\ShehrozeGul\\FiledTest\\FiledTest\\FiledTest.Models\\FiledTest.Models.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Toshiba\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

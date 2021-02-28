@@ -1,0 +1,9 @@
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Models\bin\Debug\netcoreapp3.1\FiledTest.Models.deps.json
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Models\bin\Debug\netcoreapp3.1\FiledTest.Models.dll
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Models\obj\Debug\netcoreapp3.1\FiledTest.Models.csprojAssemblyReference.cache
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Models\obj\Debug\netcoreapp3.1\FiledTest.Models.AssemblyInfoInputs.cache
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Models\obj\Debug\netcoreapp3.1\FiledTest.Models.AssemblyInfo.cs
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Models\bin\Debug\netcoreapp3.1\FiledTest.Models.pdb
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Models\obj\Debug\netcoreapp3.1\FiledTest.Models.csproj.CoreCompileInputs.cache
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Models\obj\Debug\netcoreapp3.1\FiledTest.Models.dll
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Models\obj\Debug\netcoreapp3.1\FiledTest.Models.pdb
