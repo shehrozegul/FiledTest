@@ -1,0 +1,3 @@
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Data\bin\Debug\netcoreapp3.1\FiledTest.Models.dll
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Data\obj\Debug\netcoreapp3.1\FiledTest.Data.AssemblyInfoInputs.cache
+D:\ShehrozeGul\FiledTest\FiledTest\FiledTest.Data\obj\Debug\netcoreapp3.1\FiledTest.Data.AssemblyInfo.cs
